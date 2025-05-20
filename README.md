@@ -33,6 +33,8 @@ In a post-apocalyptic world, survival becomes even more complex due to the poten
 <br>
 [Aid Box](https://chatgpt.com/g/g-67984ca6ad9c8191a5f77eabde6efa4c-aid-box)
 <br>
+[Military CLI](https://chatgpt.com/g/g-6829c450f6ec8191863903b23dd47b38-military-cli)
+<br>
 [Survival Tech](https://chatgpt.com/g/g-XHhjYR5H0-survival-tech)
 <br>
 [Fishing Expert](https://chat.openai.com/g/g-LghRwjwYY-fishing-expert)
