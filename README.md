@@ -43,6 +43,8 @@ In a post-apocalyptic world, survival becomes even more complex due to the poten
 <br>
 [Survival Tech](https://chatgpt.com/g/g-XHhjYR5H0-survival-tech)
 <br>
+[Offline GPT](https://chatgpt.com/g/g-PhOe9lrMu-offline-gpt)
+<br>
 [Fishing Expert](https://chat.openai.com/g/g-LghRwjwYY-fishing-expert)
 <br>
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
