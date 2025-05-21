@@ -54,3 +54,5 @@ In a post-apocalyptic world, survival becomes even more complex due to the poten
 [Fishing Expert](https://chat.openai.com/g/g-LghRwjwYY-fishing-expert)
 <br>
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
+<br>
+[Military AI](https://github.com/sourceduty/Military_AI)
