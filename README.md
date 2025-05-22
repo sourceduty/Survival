@@ -62,3 +62,5 @@ In a post-apocalyptic world, survival becomes even more complex due to the poten
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
 <br>
 [Military AI](https://github.com/sourceduty/Military_AI)
+<br>
+[Hunter Tech](https://chatgpt.com/g/g-682f1a15c670819195c03fc0597ff324-hunter-tech)
